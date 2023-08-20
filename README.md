@@ -8,11 +8,13 @@ Example of setting on Windows version:
 
 This repo contains scripts + standalone CLI apps coded in multiple programming languages. __All perform the same task of clearing the MS Office recently opened list.__
 
-Programming languges used (in cronological order) consist of:
+Programming languages used (alphabetical order) consist of:
 
 - Bash
-- Go
 - C++
+- Go
+- Python
+- R
 
 ***Note***: Script/executable names may be different.
 
