@@ -15,8 +15,9 @@ Programming languages used (alphabetical order) consist of:
 - Go
 - Python
 - R
+- Rust
 
-***Note***: Script/executable names may be different.
+> ***Note***: Script/executable names may be different.
 
 ### Technical
 
@@ -28,6 +29,7 @@ This repo/project started with the single need of clearing the recents list. As 
 - conditionals
 - strings
 - functions
+- types
 - working with files (obtain full path)
-- account for errors & invalid inputs
+- handling errors & invalid inputs
 - compile as executable
